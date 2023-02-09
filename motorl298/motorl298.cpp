@@ -2,7 +2,7 @@
  * Motor Driver Control (L298N)
  * 
  * Author: Heitor Lemos
- * Setembro de 2022
+ * September, 2022
  * 
  */
 
